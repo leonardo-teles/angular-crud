@@ -1,0 +1,19 @@
+{
+  "produtos": [
+    {
+      "id": 1,
+      "nome": "Caneta BIC Preta",
+      "preco": 5.89
+    },
+    {
+      "id": 2,
+      "nome": "Notebook Dell G3",
+      "preco": 15000.89
+    },
+    {
+      "id": 3,
+      "nome": "Sansumg Galaxy S20+",
+      "preco": 5000.89
+    }
+  ]
+}
