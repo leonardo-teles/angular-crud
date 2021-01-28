@@ -4,7 +4,11 @@ CRUD completo de produtos desenvolvido como exemplo no treinamento de Angular 9 
 
 ### ➤ Status do Projeto
 
-<img src="https://img.shields.io/badge/CRUD%20de%20Produtos-100%25-success"/> [Certificado](https://www.cod3r.com.br/certificates/wcmxvq2h4x)
+<img src="https://img.shields.io/badge/CRUD%20de%20Produtos-100%25-success"/>  
+
+### ➤ Certificado
+
+[Ver](https://www.cod3r.com.br/certificates/wcmxvq2h4x)
 
 ### ➤ Imagens do Sistema
 
